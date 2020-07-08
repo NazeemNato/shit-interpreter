@@ -1,0 +1,13 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "compiler",
+      "rootUri": "../",
+      "packageUri": "lib/"
+    }
+  ],
+  "generated": "2020-07-08T16:11:12.630029Z",
+  "generator": "pub",
+  "generatorVersion": "2.8.4"
+}
